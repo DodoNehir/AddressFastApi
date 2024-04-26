@@ -8,7 +8,7 @@ cmd = [
 ]
 
 if PORT :
-    cmd += ['--port', format(PORT)]
+    cmd += ['--host', '0.0.0.0', '--port', format(PORT)]
 
 if RELOAD :
     cmd.append('--reload')
