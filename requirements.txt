@@ -1,5 +1,9 @@
-PyQt6==6.6.1
-PyQt6-Charts==6.6.0
-PyQt6-NetworkAuth==6.6.0
-PyQt6-sip==13.6.0
-PyQt6-WebEngine==6.6.0
+click==8.1.7
+h11==0.14.0
+numpy==1.26.4
+pandas==2.2.2
+python-dateutil==2.9.0.post0
+pytz==2024.1
+six==1.16.0
+tzdata==2024.1
+uvicorn==0.29.0
